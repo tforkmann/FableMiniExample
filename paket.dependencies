@@ -1,0 +1,8 @@
+group Client
+    source https://api.nuget.org/v3/index.json
+    framework: netstandard2.0
+
+    nuget Fulma
+    nuget Fable.Elmish.React 3.0.1
+    nuget Feliz 1.14.1
+    nuget Feliz.Plotly 1.6

@@ -1,0 +1,6 @@
+group Client
+Fulma
+FSharp.Core
+Fable.Elmish.React 
+Feliz
+Feliz.Plotly

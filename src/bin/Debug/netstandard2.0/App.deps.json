@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "App/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Elmish.React": "3.0.1",
           "Feliz": "1.14.1",
           "Feliz.Plotly": "1.6.0",
@@ -22,7 +22,7 @@
       },
       "Fable.Browser.Blob/1.1.0": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Core": "3.1.6"
         },
         "runtime": {
@@ -34,7 +34,7 @@
       },
       "Fable.Browser.Dom/2.1.0": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Browser.Blob": "1.1.0",
           "Fable.Browser.Event": "1.2.1",
           "Fable.Browser.WebStorage": "1.0.0",
@@ -49,7 +49,7 @@
       },
       "Fable.Browser.Event/1.2.1": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Core": "3.1.6"
         },
         "runtime": {
@@ -61,7 +61,7 @@
       },
       "Fable.Browser.WebStorage/1.0.0": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Browser.Event": "1.2.1",
           "Fable.Core": "3.1.6"
         },
@@ -74,7 +74,7 @@
       },
       "Fable.Core/3.1.6": {
         "dependencies": {
-          "FSharp.Core": "5.0.0"
+          "FSharp.Core": "4.7.2"
         },
         "runtime": {
           "lib/netstandard2.0/Fable.Core.dll": {
@@ -85,7 +85,7 @@
       },
       "Fable.Elmish/3.0.0": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Core": "3.1.6"
         },
         "runtime": {
@@ -97,7 +97,7 @@
       },
       "Fable.Elmish.React/3.0.1": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Core": "3.1.6",
           "Fable.Elmish": "3.0.0",
           "Fable.React": "7.0.1"
@@ -111,7 +111,7 @@
       },
       "Fable.React/7.0.1": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Browser.Dom": "2.1.0",
           "Fable.Core": "3.1.6"
         },
@@ -124,7 +124,7 @@
       },
       "Feliz/1.14.1": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Core": "3.1.6",
           "Fable.React": "7.0.1"
         },
@@ -137,7 +137,7 @@
       },
       "Feliz.Plotly/1.6.0": {
         "dependencies": {
-          "FSharp.Core": "5.0.0",
+          "FSharp.Core": "4.7.2",
           "Fable.Browser.Dom": "2.1.0",
           "Fable.Core": "3.1.6",
           "Feliz": "1.14.1"
@@ -149,11 +149,11 @@
           }
         }
       },
-      "FSharp.Core/5.0.0": {
+      "FSharp.Core/4.7.2": {
         "runtime": {
           "lib/netstandard2.0/FSharp.Core.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20.50704"
+            "assemblyVersion": "4.7.0.0",
+            "fileVersion": "4.700.20.27008"
           }
         },
         "resources": {
@@ -294,12 +294,12 @@
       "path": "feliz.plotly/1.6.0",
       "hashPath": "feliz.plotly.1.6.0.nupkg.sha512"
     },
-    "FSharp.Core/5.0.0": {
+    "FSharp.Core/4.7.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iHoYXA0VaSQUONGENB1aVafjDDZDZpwu39MtaRCTrmwFW/cTcK0b2yKNVYneFHJMc3ChtsSoM9lNtJ1dYXkHfA==",
-      "path": "fsharp.core/5.0.0",
-      "hashPath": "fsharp.core.5.0.0.nupkg.sha512"
+      "sha512": "sha512-w3XFVTnyZUbC8e2QT6a85ern6y7eQPPk+MYemz1FP0iBfgZcembL+wmo5cIZ1kxB8jfoXC8Q9KVkOMsGpkBKbA==",
+      "path": "fsharp.core/4.7.2",
+      "hashPath": "fsharp.core.4.7.2.nupkg.sha512"
     },
     "Fulma/2.10.0": {
       "type": "package",

@@ -8,12 +8,6 @@
         "fake"
       ]
     },
-    "paket": {
-      "version": "6.0.0-alpha050",
-      "commands": [
-        "paket"
-      ]
-    },
     "fable": {
       "version": "3.0.0-nagareyama-beta-004",
       "commands": [

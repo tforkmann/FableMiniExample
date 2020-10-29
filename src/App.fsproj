@@ -8,5 +8,11 @@
     <Compile Include="Utils.fs" />
     <Compile Include="App.fs" />
   </ItemGroup>
-  <Import Project="..\.paket\Paket.Restore.targets" />
+  <ItemGroup>
+    <PackageReference Include="Fulma" Version="2.10" />
+    <PackageReference Include="Fable.Elmish.React" Version="3.0.1" />
+    <PackageReference Include="Feliz" Version="1.14.1" />
+    <PackageReference Include="FSharp.Core" Version="4.7.2" />
+    <PackageReference Include="Feliz.Plotly" Version="1.6" />
+  </ItemGroup>
 </Project>

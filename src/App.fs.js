@@ -6,7 +6,7 @@ import { map as map_1 } from "./.fable/fable-library.3.0.0-nagareyama-beta-004/O
 import { join, isNullOrWhiteSpace } from "./.fable/fable-library.3.0.0-nagareyama-beta-004/String.js";
 import { mkStyle, reactElement, reactApi, mkAttr } from "./.fable/Feliz.1.14.1/Interop.fs.js";
 import { map as map_2, empty, singleton as singleton_1, append as append_1, delay } from "./.fable/fable-library.3.0.0-nagareyama-beta-004/Seq.js";
-import { ProgramModule_run, ProgramModule_mkSimple } from "./.fable/Fable.Elmish.3.1.0/program.fs.js";
+import { ProgramModule_run, ProgramModule_mkSimple } from "./.fable/Fable.Elmish.3.0.0/program.fs.js";
 import { Program_withReactSynchronous } from "./.fable/Fable.Elmish.React.3.0.1/react.fs.js";
 
 export class Todo extends Record {
